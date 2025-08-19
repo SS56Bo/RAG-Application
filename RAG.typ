@@ -59,7 +59,7 @@ Privacy, speed, cost.
   [],
   $"LLM Context Window"$,
   [
-    The numbr of tokens a LLM can accept as input. A higher context Window means an LLM can accept more relevant information to assist with a query. In RAG systems, if a model has a larger context Window, it can accept more reference items from the retrieval system to aid with its generation.
+    The number of tokens a LLM can accept as input. A higher context Window means an LLM can accept more relevant information to assist with a query. In RAG systems, if a model has a larger context Window, it can accept more reference items from the retrieval system to aid with its generation.
   ]
 )
 
