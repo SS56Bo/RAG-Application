@@ -1,0 +1,12 @@
+[tool.poe.tasks]
+run = "streamlit run main.py"
+
+[project]
+dependencies = [
+    "streamlit",
+    "pymupdf",
+    "transformers",
+    "torch",
+    "sentence_transformers",
+    "pandas"
+]
